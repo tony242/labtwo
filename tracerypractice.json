@@ -1,0 +1,123 @@
+{
+	"name": [
+		"Tony",
+		"Jake",
+		"Jacey",
+		"Brian",
+		"Alyssa",
+		"Nicole"
+	],
+	"occupation": [
+		"3D modeler",
+		"texture artist",
+		"programmer",
+		"level designer",
+		"streamer",
+		"professor"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# this... a #size# #emotion# #animal#. The animal was #maybe# from the #time# #place# of #otherplace.capitalize#, #deity.capitalize# help us all. #start##site##end#"
+	],
+	"always": [
+		"never",
+		"rarely",
+		"not at any time",
+		"on no account"
+	],
+	"expecting": [
+		"anticipating",
+		"imagining",
+		"expecting",
+		"predicting"
+	],
+	"emotion": [
+		"angry",
+		"scary",
+		"cool",
+		"sad",
+		"happy",
+		"disgusting"
+	],
+	"size": [
+		"small",
+		"tall",
+		"huge",
+		"tiny",
+		"enormous",
+		"microscopic"
+	],
+	"animal": [
+		"dog",
+		"cat",
+		"mouse",
+		"lion",
+		"moose",
+		"frog",
+		"rabbit",
+		"deer",
+		"alligator",
+		"tiger"
+	],
+	"maybe": [
+		"maybe",
+		"definitely",
+		"probably",
+		"most likely",
+		"undoubtedly"
+	],
+	"time": [
+		"prehistoric",
+		"futuristic",
+		"neolithic",
+		"paleolithic",
+		"mesolithic"
+	],
+	"place": [
+		"rain forests",
+		"plains",
+		"mountains",
+		"deserts",
+		"oceans"
+	],
+	"otherplace": [
+		"africa",
+		"florida",
+		"egypt",
+		"australia",
+		"michigan",
+		"italy",
+		"japan"
+	],
+	"deity": [
+		"zues",
+		"kthulu",
+		"cronos",
+		"thor",
+		"shenron",
+		"goku"
+	],
+	"start": [
+		"www.",
+		"zzz.",
+		"qqq.",
+		"mmm.",
+		"ooo.",
+		"hhh."
+	],
+	"site": [
+		"notc1ckbait",
+		"maybec1ick",
+		"n33dviews",
+		"dontadblock",
+		"r3Aln3ws"
+	],
+	"end": [
+		".com",
+		".net",
+		".org",
+		".gov",
+		".edu",
+		".bait",
+		".ad"
+	]
+}
